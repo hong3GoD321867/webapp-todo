@@ -1,1 +1,4 @@
-C:\Users\홍승민\my-project\todo\README.md
+#프로그램 개요
+
+웹앱 실습 프로그램
+사용기술: REACT
